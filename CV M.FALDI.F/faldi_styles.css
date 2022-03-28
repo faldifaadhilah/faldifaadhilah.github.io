@@ -1,0 +1,103 @@
+*{
+  margin: 0;
+  padding: 0;
+  }
+  .welcomepage{
+      margin: 20px auto;
+      width: 100%;
+      background-image:url("img/img3.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align: center;
+      background-position: center;
+      display:grid;
+      padding-bottom: 550px;
+      background-color: black rgba(0,0 ,0 ,0.5);
+  }
+  .content{
+      width: 100%;
+      margin:30px auto;
+      position: absolute;
+      font-size: 15px;
+      width: 95%;
+      top: 150px;
+      left: 40px;
+      color: white;
+      font-family:monospace;
+  }
+  .content p{
+      font-size: 10px;
+  }
+  img{
+      position:static;
+      float:center;
+  }
+  .datapribadi{
+      margin: 20px auto;
+  }
+  .introduction{
+      width: 50%;
+      position: absolute;
+      float: left;
+      text-align: left;
+      font-size: 12px;
+      padding-left: 1px;
+      font-family: cursive;
+     
+  }
+  
+  .introduction .about{
+      font-size: 20px;
+      margin-left:15px;
+      position: static;
+      float: left;
+  }
+  .introduction p{
+      position: static;
+      float: left;
+      margin-left: 20px;
+      text-align: justify;
+      top:80px;
+      left: 195px;
+      font-size: 20px;
+  }
+  .introduction h1{
+      float:left;
+      margin-left: 180px;
+      font-size: 20px;
+  }
+  .info{
+      float: right;
+      font-family: cursive;
+  }
+  .infopribadi{
+      font-size: 20px;
+  }
+  .table{
+    font-size: 17px;
+  }
+  
+  .education{
+      width: 100%;
+      margin: 220px auto;
+      background-color: orange;    
+  }
+  .education table{
+      padding-bottom: 110px;
+      font-family:cursive ;
+      color: white;
+      font-size: 15px;
+      text-align: center;
+  }
+.proggres{
+    display: static;
+   width: 100%;
+   position: absolute;
+   top: 30cm;
+   background-color: rgba(0,0 ,0 ,0.8);
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
